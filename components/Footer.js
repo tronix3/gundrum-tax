@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/Logo.svg" alt="Gundrum Logo" className={styles.logo} />
+        /*<img src="/Logo.svg" alt="Gundrum Logo" className={styles.logo} />*/
       </footer>
     </>
   )
