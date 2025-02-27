@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Gundrum Tax Services - Myrtle Beach !</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Gundrum Tax Services is under construction!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Please <a href="mailto:brad@gundrumtaxservives.com">email</a> us if you would like more information.
         </p>
       </main>
 
